@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Map Data structure - student grade.obj",
+            "outputs": [
+                "x64\\Debug\\Map Data structure - student grade.cpp.obj.dt.module.json",
+                "x64\\Debug\\Map Data structure - student grade.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

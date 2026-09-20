@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Map Data structure - student grade/Map Data structure - student grade.vcxproj" />
+</Solution>
