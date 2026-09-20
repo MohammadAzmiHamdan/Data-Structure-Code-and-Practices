@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "simply l.ee88d660\\x64\\Debug\\list.obj",
+            "outputs": [
+                "simply l.ee88d660\\x64\\Debug\\list.cpp.obj.dt.module.json",
+                "simply l.ee88d660\\x64\\Debug\\list.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
