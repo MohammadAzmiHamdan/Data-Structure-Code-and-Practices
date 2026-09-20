@@ -1,0 +1,3 @@
+﻿  MAIN.cpp
+C:\مشاريع\داتا ستركشر\Contiguous list\Contiguous list1\list.cpp(141,1): warning C4715: 'list<int>::delete_el': not all control paths return a value
+  Contiguous list1.vcxproj -> C:\مشاريع\داتا ستركشر\Contiguous list\Contiguous list1\x64\Debug\Contiguous list1.exe

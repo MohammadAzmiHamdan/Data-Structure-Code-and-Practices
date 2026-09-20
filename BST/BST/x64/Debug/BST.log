@@ -1,0 +1,6 @@
+﻿  BST.cpp
+  Main.cpp
+  Generating Code...
+C:\مشاريع\داتا ستركشر\BST\BST.cpp(31,1): warning C4715: 'tree::add': not all control paths return a value
+C:\مشاريع\داتا ستركشر\BST\BST.cpp(102,1): warning C4715: 'tree::search': not all control paths return a value
+  BST.vcxproj -> C:\مشاريع\داتا ستركشر\BST\x64\Debug\BST.exe
