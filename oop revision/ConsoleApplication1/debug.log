@@ -1,0 +1,49 @@
+[1031/001709.884:ERROR:viz_main_impl.cc(162)] Exiting GPU process due to errors during initialization
+[1031/001710.058:ERROR:viz_main_impl.cc(162)] Exiting GPU process due to errors during initialization
+[1031/001710.221:ERROR:gpu_init.cc(441)] Passthrough is not supported, GL is disabled
+[1031/004108.534:ERROR:gpu_process_host.cc(995)] GPU process exited unexpectedly: exit_code=1073807364
+[1031/004108.534:WARNING:gpu_process_host.cc(1308)] The GPU process has crashed 1 time(s)
+[1031/004108.545:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[1031/004108.826:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[1031/004108.829:ERROR:gpu_process_host.cc(995)] GPU process exited unexpectedly: exit_code=-1073741205
+[1031/004108.829:WARNING:gpu_process_host.cc(1308)] The GPU process has crashed 2 time(s)
+[1031/004108.864:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[1031/004108.926:ERROR:gpu_process_host.cc(995)] GPU process exited unexpectedly: exit_code=-1073741205
+[1031/004108.926:WARNING:gpu_process_host.cc(1308)] The GPU process has crashed 3 time(s)
+[1031/004108.926:FATAL:gpu_data_manager_impl_private.cc(414)] GPU process isn't usable. Goodbye.
+[1101/134110.724:ERROR:viz_main_impl.cc(162)] Exiting GPU process due to errors during initialization
+[1101/134110.929:ERROR:viz_main_impl.cc(162)] Exiting GPU process due to errors during initialization
+[1101/134111.101:ERROR:gpu_init.cc(441)] Passthrough is not supported, GL is disabled
+[1101/143009.666:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/143009.707:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/143552.686:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/143552.714:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/143552.766:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/143553.303:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/143553.428:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/170021.199:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/170021.232:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/182837.028:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/182837.070:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/182837.110:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/182837.131:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/182837.131:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/182837.192:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/182837.202:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/182837.621:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/201904.904:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/201904.924:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/231907.263:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/231907.303:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/231907.323:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/231907.353:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/231907.382:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/231908.414:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/231908.444:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/231923.657:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1101/231923.678:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1102/000624.957:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1102/000625.048:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1102/000625.048:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1102/000625.625:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1102/000625.724:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.

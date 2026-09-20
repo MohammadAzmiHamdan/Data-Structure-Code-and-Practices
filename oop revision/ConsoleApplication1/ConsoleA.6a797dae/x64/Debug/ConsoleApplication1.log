@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\مشاريع\داتا ستركشر\oop revision\ConsoleApplication1\ConsoleApplication1.cpp(6,7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Source1.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\مشاريع\داتا ستركشر\oop revision\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

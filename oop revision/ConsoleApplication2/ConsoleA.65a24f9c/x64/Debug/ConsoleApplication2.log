@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+C:\مشاريع\داتا ستركشر\oop revision\ConsoleApplication2\ConsoleApplication2.cpp(29,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\مشاريع\داتا ستركشر\oop revision\ConsoleApplication2\ConsoleApplication2.cpp(46,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\مشاريع\داتا ستركشر\oop revision\ConsoleApplication2\ConsoleApplication2.cpp(65,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\مشاريع\داتا ستركشر\oop revision\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
